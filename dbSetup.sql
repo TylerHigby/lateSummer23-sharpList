@@ -155,8 +155,7 @@ VALUES (
         false
     );
 
-INSERT INTO
-    cars (make, model, year, price, isNew)
+cars (make, model, year, price, isNew)
 VALUES (
         'goblin-car',
         'knee-exploder',
